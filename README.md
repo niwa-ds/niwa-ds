@@ -27,7 +27,7 @@ Python・SQL（BigQuery）を中心に、
 ## 技術スキル
 
 ### 言語
-- **Python**：pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels
+- **Python**：pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels, Scikit-learn
 - **SQL（BigQuery）**：CTE, Window Functions, 正規表現, データ整形
 
 ### 分析・統計
