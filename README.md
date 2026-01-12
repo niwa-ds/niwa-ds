@@ -60,7 +60,7 @@ Python・SQL（BigQuery）を中心に、
 - Docker / DevContainer による再現性のある分析環境
 - `src/` + pytest を用いた分析コードの構造化と品質担保
 
-https://github.com/niwa-ds/data-portfolio
+https://github.com/niwa-ds/open-portfolio
 
 ---
 
